@@ -36,11 +36,7 @@
 
   <hr style="width:70%; margin:30px auto;">
 
-  <h2>💬 Languages I Use</h2>
-  <div style="width:300px; margin:auto; text-align:left; font-family:monospace;">
-    HTML <div style="background:#ddd; border-radius:10px;"><div style="width:95%; background:#E34F26; padding:5px; border-radius:10px; color:white;">95%</div></div><br>
-    CSS <div style="background:#ddd; border-radius:10px;"><div style="width:90%; background:#1572B6; padding:5px; border-radius:10px; color:white;">90%</div></div>
-  </div>
+  
 
   <hr style="width:70%; margin:30px auto;">
 
