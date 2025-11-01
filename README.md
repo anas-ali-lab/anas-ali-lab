@@ -5,7 +5,7 @@
 <h1>&#128075; Anas Ali</h1>
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong>  Busy coding & Vibing to :    </strong></p>
   <br>
 <p align="center">
   👋 Hi there! I'm <b>an HTML & CSS Developer</b> <br>
