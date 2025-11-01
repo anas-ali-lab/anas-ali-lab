@@ -6,16 +6,13 @@
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-<div align="center" style="font-family: 'Poppins', sans-serif; color: #ffffff; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 20px; width: 80%; margin: auto; box-shadow: 0 0 20px rgba(0,0,0,0.4);">
-  <h2 style="color: #00ffff; text-shadow: 0 0 10px #00ffff;">👋 Hi there!</h2>
-  <p style="font-size: 18px; line-height: 1.7;">
-    💻 I'm <b style="color: #00ffcc;">an HTML & CSS Developer</b> <br>
-    🎨 I love creating <b style="color: #ffcc00;">modern, clean, and responsive designs</b> <br>
-    🚀 Passionate about <b style="color: #ff6699;">UI / UX</b> and <b>web animations</b> <br>
-    🌍 Always learning & exploring new creative ideas ✨
-  </p>
-  <p style="color: #999;">💬 Let's build something amazing together!</p>
-</div>
+<p align="center">
+  👋 Hi there! I'm <b>an HTML & CSS Developer</b> <br>
+  💻 I love building <b>modern, clean, and responsive websites</b> <br>
+  🎨 Passionate about <b>UI design</b> and <b>web aesthetics</b> <br>
+  🚀 Always learning new things and improving my skills <br>
+  🌍 Let's create something amazing together!
+</p>
 
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
