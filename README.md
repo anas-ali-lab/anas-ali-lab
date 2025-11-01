@@ -6,6 +6,7 @@
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+  <br>
 <p align="center">
   👋 Hi there! I'm <b>an HTML & CSS Developer</b> <br>
   💻 I love building <b>modern, clean, and responsive websites</b> <br>
@@ -13,7 +14,7 @@
   🚀 Always learning new things and improving my skills <br>
   🌍 Let's create something amazing together!
 </p>
-
+<br>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
