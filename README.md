@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 <h1>&#128075; Anas Ali</h1>
 
-<details>
+
 <p><strong>  Busy coding & Vibing to :    </strong></p>
   <br>
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 
-</details>
+
 
 
 </div>
